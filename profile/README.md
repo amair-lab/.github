@@ -1,4 +1,4 @@
-# Advanced Mechanisms Artificial Intelligence Research
+# AMAIR Lab
 
 AMAIR is at the forefront of combining artificial intelligence with physicochemical research to revolutionize our understanding of natural mechanisms. 
 Our mission is to accelerate scientific discovery by leveraging cutting-edge AI technologies to explore, predict, and explain complex physical and chemical phenomena.
